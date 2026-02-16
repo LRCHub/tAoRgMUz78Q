@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ガラスの森",
+  "base_artist": "くしゃみ。。",
+  "createdAt": "2026-02-16T05:13:20.696857Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラスの森",
+      "artist": "くしゃみ。。",
+      "has_synced": false,
+      "path": "select/pl_01_ガラスの森_くしゃみ。。.txt"
+    }
+  ]
+}
